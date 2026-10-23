@@ -1,6 +1,6 @@
 # Avinash Saraswat
 
-Enterprise AI for regulated financial services. Agentic knowledge work, in practice.
+Enterprise AI for regulated financial services. Agentic knowledge work, checked against what the agent did not write.
 
 I am a Global Solutions Leader, AI Infrastructure at Google Cloud. My code here and my writing on Substack are personal work, done on my own time. They draw on no client material, no employer material and no supervisory communication. Views are my own and do not represent Google.
 
