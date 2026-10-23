@@ -2,7 +2,7 @@
 
 Enterprise AI for regulated financial services. Agentic knowledge work, in practice.
 
-I am a Global Solutions Manager, AI Infrastructure at Google Cloud. My code here and my writing on Substack are personal work, done on my own time. They draw on no client material, no employer material and no supervisory communication. Views are my own and do not represent Google.
+I am a Global Solutions Leader, AI Infrastructure at Google Cloud. My code here and my writing on Substack are personal work, done on my own time. They draw on no client material, no employer material and no supervisory communication. Views are my own and do not represent Google.
 
 ## Code
 
