@@ -10,7 +10,7 @@ I am a Global Solutions Leader, AI Infrastructure at Google Cloud. My code here 
 
 A verify-and-regenerate loop for LLM output on regulated financial data. An LLM drafts an analyst-style brief from the XBRL facts of a public SEC 10-Q or 10-K filing. A deterministic verifier checks every numeric GAAP claim against those facts. The brief is regenerated until each claim reconciles or is dropped, and every keep and drop is logged with a reason code. Python, Apache-2.0.
 
-[Version 0.2.0](https://github.com/avinashsaraswat/fsi-eval-harness/releases/tag/v0.2.0) was released on October 19, 2026, and is archived on Zenodo. Cite the project as [10.5281/zenodo.23464698](https://doi.org/10.5281/zenodo.23464698), which covers every version. The DOI for version 0.2.0 alone is [10.5281/zenodo.23464699](https://doi.org/10.5281/zenodo.23464699).
+[Version 0.2.1](https://github.com/avinashsaraswat/fsi-eval-harness/releases/tag/v0.2.1) was released on October 25, 2026, and is archived on Zenodo. Cite the project as [10.5281/zenodo.23464698](https://doi.org/10.5281/zenodo.23464698), which covers every version. The DOI for version 0.2.1 alone is [10.5281/zenodo.23646848](https://doi.org/10.5281/zenodo.23646848).
 
 ## Writing
 
