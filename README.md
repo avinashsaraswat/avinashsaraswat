@@ -14,7 +14,7 @@ A verify-and-regenerate loop for LLM output on regulated financial data. An LLM 
 
 ## Writing
 
-I write a series on running knowledge work in an agentic IDE, one piece every two weeks. Each piece makes one claim you can test and shows a receipt from a real run, and some ship a template repository to clone. I also write short takes on enterprise AI in regulated finance. Both publish on [Substack](https://avinashsaraswat.substack.com/), and the list is on [my site](https://avinashsaraswat.com/writing.html).
+I write a series on running knowledge work in an agentic IDE, and a piece publishes when it is ready. Each piece makes one claim you can test and shows a receipt from a real run. I also ran one short take on enterprise AI in regulated finance. Both are on [Substack](https://avinashsaraswat.substack.com/), and the list is on [my site](https://avinashsaraswat.com/writing.html).
 
 ## From my Google Cloud work
 
